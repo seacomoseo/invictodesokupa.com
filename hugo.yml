@@ -1,11 +1,11 @@
-baseURL: https://sansoul.pages.dev
+baseURL: https://invictodesokupa.com
 buildFuture: true
 theme: [sansoul]
 params:
-  domain: sansoul.es
-  name: sansoul
-  netlify_id: c68e19de-b566-40c3-96ac-0e5884121e3f
-  netlify_hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  cloudflare_id: YmY5ZTdjNDM1NzMxYjI2YTg3ZGYyZWI1YjEwYWNmNmM=
-  drive_link: https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK
-  drive_mails: sansoul@seacomoseo.com
+  domain: invictodesokupa.com
+  name: invictodesokupa
+  netlify_id: ''
+  netlify_hook: ''
+  cloudflare_id: OGVhNjBjNmNhMjc2YjJiMzY5ZWZlZmIxZWVjOGU1NDUK
+  drive_link: https://drive.google.com/file/d/1L_G8ClifVqwLEr7fZn_8iQ1bZ-L7jpBQ
+  drive_mails: invictodesokupa@gmail.com

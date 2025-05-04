@@ -12,8 +12,6 @@ boxes:
   - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
   - link: https://twitter.com/QuantumFracture
   - link: https://www.linkedin.com/company/quantum-fracture
-  - link: https://github.com/lorensansol
-  - link: https://mastersoflol.com/collections/quantumfracture?YTC
   contact:
   - type: schedule
     days: Lunes a Viernes
@@ -25,13 +23,13 @@ boxes:
     label: 111 222 333
     button: cta
   - type: mail
-    label: info@sansoul.es
+    label: info@invictodesokupa.com
     full: true
   - type: address
     label: Ronda de Levante, 1, 30008 Murcia
-    anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+    anchor: Invicto Desokupa - Mediadores y Servicios Inmobiliarios, Ronda de Levante, 1, 30008 Murcia
   form:
-    email: sansoul@seacomoseo.com
+    email: sansoul@seacomoseo.com, info@invictodesokupa.com
   inputs:
   - type: text
     name: Nombre

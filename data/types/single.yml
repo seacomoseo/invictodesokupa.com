@@ -11,11 +11,12 @@ tpl:
   callnow:
     show: auto
   section:
-  - underline: true
+  - size: lg
+    underline: true
     uppercase: true
     alpha: .7
     parallax: fix
-    div: curve-side
+    div: tilt-curve-sides
     div_x: false
     div_y: false
   - color: white
