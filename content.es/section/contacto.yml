@@ -1,7 +1,7 @@
 name: Contacto
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
-icon: paper-plane
+# icon: paper-plane
 menu_button: cta
 box:
   cols: 2

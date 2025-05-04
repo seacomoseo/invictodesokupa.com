@@ -12,7 +12,7 @@ tpl:
     show: auto
   section:
   - size: lg
-    underline: true
+    # underline: true
     uppercase: true
     alpha: .7
     parallax: fix
