@@ -27,15 +27,16 @@ tpl:
   - file: base/related
   list:
     cols: 3
-    color: white
-    icon: hide
+    color: similar
     shade: true
-    ratio: 16/9
     inset: true
+    ratio: 16/9
+    icon: hide
     align: left
     button: hide
     tags:
     - type: date
     - type: address
+    - type: tax
   related:
     slider: true

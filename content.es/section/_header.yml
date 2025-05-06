@@ -2,7 +2,10 @@ name: Cabecera
 hanchor: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
 color: dark
 # bg: base/poster.svg
-image: base/logo.svg
+image: base/logo-animation.svg
+pt: 10
+pb: 10
+size: sm
 # full: true
 # boxes:
 # - image: base/logo.svg
