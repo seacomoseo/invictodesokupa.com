@@ -1,7 +1,10 @@
 name: Contacto
 title: Contacto
 subtitle: Estamos a un mensaje de ayudarte
-menu_button: cta
+# menu_button: cta
+bg: apreton-manos.webm
+color: dark
+div: tilt-curve-sides
 box:
   cols: 2
 boxes:

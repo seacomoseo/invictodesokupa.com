@@ -1,6 +1,9 @@
 name: Servicios
 title: Servicios
 subtitle: Soluciones integrales y efectivas
+div: tilt-curve-sides
+div_x: true
+div_y: true
 box:
   cols: 3
   gap: 3

@@ -7,20 +7,21 @@ box:
   gap: 3
   gap_ny: 1
   align: left
+  align_y: center
+  ratio: 3/2
   # icon_size: 3
+  # parallax: soft
 boxes:
 
 - align_vl: right
-  icon: house-building
-  # image: base/icon.svg
-  # parallax: soft
+  # icon: house-building
+  image: gestores-asesores-inmobiliarios.webp
 - title: Gestores y Asesores Inmobiliarios
   md: Expertos colegiados en la compra, venta y alquiler de inmuebles, ofreciendo asesoramiento legal y captación de inversores.
 
 - order: 2
-  icon: gavel
-  # image: base/icon.svg
-  # parallax: soft
+  # icon: gavel
+  image: mediadores-legales.webp
 - order: 1
   align_vl: right
   title: Mediadores Legales

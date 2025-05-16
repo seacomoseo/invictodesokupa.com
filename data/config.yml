@@ -4,6 +4,6 @@ langs:
   description: Mediadores y Servicios Inmobiliarios
   google_analytics: G-05NX6J55T5
 cms:
-  logo: base/logo.svg
+  logo: base/icon.svg
 others:
   show: true

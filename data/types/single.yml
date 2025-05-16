@@ -13,3 +13,4 @@ tpl:
   section:
   - size: lg
     color: white
+    alpha: .8

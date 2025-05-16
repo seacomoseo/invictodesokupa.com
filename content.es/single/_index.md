@@ -19,7 +19,7 @@ tpl:
 base: organization
 organization:
   types:
-  # - LocalBusiness
+  - LocalBusiness
   - Organization
   names:
   - Invicto Desokupa
@@ -37,14 +37,14 @@ organization:
   # - https://g.page/r/CQI3T3wmeAB6EBM
   phones:
   - 604 48 24 58
-  # address:
-  #   name: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
-  #   street: Ronda de Levante, 1
-  #   pc: '30008'
-  #   locality: Murcia
-  #   region: Murcia
-  #   country: ES
-  #   geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  address:
+    name: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
+    street: Ronda de Levante, 1
+    pc: '30008'
+    locality: Murcia
+    region: Murcia
+    country: ES
+    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   #   link: https://g.page/r/CQI3T3wmeAB6EBM
   areas:
   - Región de Murcia
@@ -59,17 +59,11 @@ organization:
     - wednesday
     - thursday
     - friday
-  #   hours:
-  #   - open: 9:00
-  #     close: 14:00
-  #   - open: 17:00
-  #     close: 20:00
-  # - days:
-  #   - saturday
-  #   # - sunday
-  #   hours:
-  #   - open: 9:00
-  #     close: 13:00
+    - saturday
+    - sunday
+    hours:
+    - open: 0:00
+      close: 24:00
   prices: €€
   services:
   - title: Desokupación
@@ -88,17 +82,17 @@ organization:
       - Evaluación presencial de inmuebles ocupados o con inquilinos en situación irregular.
       - Informe sobre la viabilidad de la recuperación del inmueble para inversores o compradores interesados.
     area: España
-  - title: Asesoramiento <br> Inmobiliario
+  - title: Asesoramiento Inmobiliario
     description: |
       - Servicios de compra, venta y arrendamiento de inmuebles.
       - Elaboración de contratos inmobiliarios
     area: España
-  - title: Gestión de Inquilinos <br> Morosos o Irregulares
+  - title: Gestión de Inquilinos Morosos o Irregulares
     description: |
       - Asesoramiento legal para la resolución de impagos y situaciones irregulares.
       - Negociación y mediación con inquilinos para la recuperación del inmueble.
     area: España
-  - title: Oferta de Inmuebles <br> para Inversores
+  - title: Oferta de Inmuebles para Inversores
     description: |
       - Venta de inmuebles con situaciones legales complejas, con posibilidad de contratación de nuestros servicios jurídicos para su recuperación.
       - Gestión y fidelización de inversores para la posterior venta de viviendas recuperadas.

@@ -1,4 +1,5 @@
 footer:
   div: tilt-curve-sides
+  div_x: true
   div_y: true
   # social: []
