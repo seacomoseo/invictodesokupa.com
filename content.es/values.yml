@@ -1,4 +1,4 @@
 footer:
-  # color: dark
   div: tilt-curve-sides
-  social: []
+  div_y: true
+  # social: []

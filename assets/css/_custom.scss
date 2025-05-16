@@ -1,2 +1,6 @@
-// Header
+// Nosotros
 
+#icon-crown {
+  transform: rotateY(calc(var(--parallax-pos) * .9deg + 30deg));
+  transform-origin: center;
+}

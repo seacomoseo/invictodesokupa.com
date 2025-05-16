@@ -1,35 +1,31 @@
 name: Contacto
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
-# icon: paper-plane
+subtitle: Estamos a un mensaje de ayudarte
 menu_button: cta
 box:
   cols: 2
 boxes:
-- social:
-  - link: https://www.facebook.com/QuantumFracture
-  - link: https://www.instagram.com/quantumfracture/
-  - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-  - link: https://twitter.com/QuantumFracture
-  - link: https://www.linkedin.com/company/quantum-fracture
+- md: Si necesitas ayuda para **recuperar tu propiedad** o quieres asesoramiento sobre nuestros servicios, no dudes en contactarnos. Estamos aquí para ofrecerte soluciones rápidas y efectivas.
+  # social:
+  # - link: https://www.facebook.com/QuantumFracture
   contact:
-  - type: schedule
-    days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
-    full: true
+  # - type: schedule
+  #   days: Lunes a Viernes
+  #   hours: 9:00 - 12:30 y 14:30 - 20:00
+  #   full: true
   - type: phone
-    label: 111 222 333
+    label: 604 48 24 58
   - type: whatsapp
-    label: 111 222 333
+    label: 604 48 24 58
     button: cta
   - type: mail
     label: info@invictodesokupa.com
     full: true
-  - type: address
-    label: Ronda de Levante, 1, 30008 Murcia
-    anchor: Invicto Desokupa - Mediadores y Servicios Inmobiliarios, Ronda de Levante, 1, 30008 Murcia
+  # - type: address
+  #   label: Ronda de Levante, 1, 30008 Murcia
+  #   anchor: Invicto Desokupa - Mediadores y Servicios Inmobiliarios, Ronda de Levante, 1, 30008 Murcia
   form:
-    email: sansoul@seacomoseo.com, info@invictodesokupa.com
+    email: info@invictodesokupa.com, sansoul@seacomoseo.com
   inputs:
   - type: text
     name: Nombre
@@ -46,7 +42,7 @@ boxes:
     name: Mensaje
     icon: message
     required: true
-- geos:
-  - type: point
-    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  rate: 1/1
+# - geos:
+#   - type: point
+#     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+#   rate: 1/1

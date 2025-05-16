@@ -2,61 +2,56 @@
 slug: inicio
 title: Inicio
 image: base/poster.svg
-summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+summary: Soluciones integrales para propietarios e inversores. Desokupación legal, gestión de inquilinos morosos, informes precompra y asesoramiento inmobiliario.
 translationKey: home
 seo: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
+description: Soluciones integrales a propietarios e inversores. Desokupación legal, gestión de inquilinos morosos, informes precompra y asesoramiento inmobiliario.
 
 tpl:
   sections:
   - file: _header
-  # - file: nosotros
-  # - file: servicios
-  #   modals:
-  #   - file: ejemplo
-  # - file: proceso
-  # - file: fotos
-  # - file: noticias
-  # - file: faq
-  # - file: resenas
+  - file: nosotros
+  - file: servicios
   - file: contacto
-  # - file: mapa
+  - file: resenas
+  - file: partners
 
 base: organization
 organization:
   types:
-  - LocalBusiness
+  # - LocalBusiness
   - Organization
   names:
   - Invicto Desokupa
   - Invicto Desokupa - Mediadores y Servicios Inmobiliarios
-  description: Mediadores y Servicios Inmobiliarios
+  description: Soluciones integrales para propietarios e inversores. Desokupación legal, gestión de inquilinos morosos, informes precompra y asesoramiento inmobiliario.
   legal: Penélope Carpes García
   nif: 48751617N
   email: info@invictodesokupa.com
   logo: base/poster.svg
   images:
   - base/poster.svg
-  social:
-  - https://www.facebook.com/QuantumFracture
-  - https://www.instagram.com/quantumfracture/
-  - https://g.page/r/CQI3T3wmeAB6EBM
+  # social:
+  # - https://www.facebook.com/QuantumFracture
+  # - https://www.instagram.com/quantumfracture/
+  # - https://g.page/r/CQI3T3wmeAB6EBM
   phones:
-  - 123456789
-  - +34 987 654 321
-  address:
-    name: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
-    street: Ronda de Levante, 1
-    pc: '30008'
-    locality: Murcia
-    region: Murcia
-    country: ES
-    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    link: https://g.page/r/CQI3T3wmeAB6EBM
+  - 604 48 24 58
+  # address:
+  #   name: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
+  #   street: Ronda de Levante, 1
+  #   pc: '30008'
+  #   locality: Murcia
+  #   region: Murcia
+  #   country: ES
+  #   geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  #   link: https://g.page/r/CQI3T3wmeAB6EBM
   areas:
   - Región de Murcia
-  - Internacional
-  - Online
+  - Andalucía
+  - Comunidad Valencia
+  - Castilla La Mancha
+  - Comunidad de Madrid
   schedule:
   - days:
     - monday
@@ -64,28 +59,48 @@ organization:
     - wednesday
     - thursday
     - friday
-    hours:
-    - open: 9:00
-      close: 14:00
-    - open: 17:00
-      close: 20:00
-  - days:
-    - saturday
-    # - sunday
-    hours:
-    - open: 9:00
-      close: 13:00
+  #   hours:
+  #   - open: 9:00
+  #     close: 14:00
+  #   - open: 17:00
+  #     close: 20:00
+  # - days:
+  #   - saturday
+  #   # - sunday
+  #   hours:
+  #   - open: 9:00
+  #     close: 13:00
   prices: €€
-  # services:
-  # - title: Diseño Web
-  #   description: null
-  #   price: 800.00
-  #   area: Internacional
-  # - title: SEO
-  #   description: null
-  #   price: 250.00
-  #   area: Internacional
-  # - title: SEM
-  #   description: Descripción de ejemplo
-  #   area: Internacional
+  services:
+  - title: Desokupación
+    description: |
+      - Mediación y recuperación de inmuebles ocupados dentro del marco legal.
+      - Valoración previa del caso y estrategia jurídica personalizada.
+    area: España
+  - title: Servicio Jurídico
+    description: |
+      - Externalización del servicio jurídico especializado.
+      - Asesoramiento legal en materia de ocupación, inquilinos morosos e irregulares.
+      - Seguimiento del caso según las necesidades del cliente.
+    area: España
+  - title: Informes Precompra
+    description: |
+      - Evaluación presencial de inmuebles ocupados o con inquilinos en situación irregular.
+      - Informe sobre la viabilidad de la recuperación del inmueble para inversores o compradores interesados.
+    area: España
+  - title: Asesoramiento <br> Inmobiliario
+    description: |
+      - Servicios de compra, venta y arrendamiento de inmuebles.
+      - Elaboración de contratos inmobiliarios
+    area: España
+  - title: Gestión de Inquilinos <br> Morosos o Irregulares
+    description: |
+      - Asesoramiento legal para la resolución de impagos y situaciones irregulares.
+      - Negociación y mediación con inquilinos para la recuperación del inmueble.
+    area: España
+  - title: Oferta de Inmuebles <br> para Inversores
+    description: |
+      - Venta de inmuebles con situaciones legales complejas, con posibilidad de contratación de nuestros servicios jurídicos para su recuperación.
+      - Gestión y fidelización de inversores para la posterior venta de viviendas recuperadas.
+    area: España
 ---

@@ -1,66 +1,41 @@
 name: Servicios
 title: Servicios
-subtitle: ¿Qué procesos seguimos?
-icon: rocket-launch
+subtitle: Soluciones integrales y efectivas
 box:
-  cols: 0
-  cols_vs: 2
-  uppercase: true
-  underline: true
-  # icon: frog
-  # image: base/poster.svg
-  # link: '#ejemplo'
-  icon_type: bottom
-  # direction: bottom
-  border: cta
-  ratio: 2/1
-  inset: true
-  color: white
-  # pill: true
-  slider: true
-boxes:
-- boxes:
-  - link: '#ejemplo'
-  - subtitle: Más Agámoslo!
-  - icon: frog
-  - title: Ola k ase
-    # boxes:
-    # - link: '#mama-mia'
-    # - subtitle: MAMA MIA
-    #   boxes:
-    #   - link: '#mama-mia'
-    #   - subtitle: MAMA MIA
-  - md: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - image: base/poster.svg
-    inset: true
-    border: cta
-- title: Ola k ase
-  subtitle: Agámoslo!
-  underline: true
-  md: |
-    Lorem ipsum dolor sit amet, [consectetur](base/poster.svg "[nofollow]") adipiscing elit, sed do eiusmod tempor.
-- title: Ola k ase
-  subtitle: Agámoslo!
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  link: '#ejemplo'
-  button: hide
-  ofuscate: true
-  fit_vs: 2
-  tag: col
-  tags:
-  - type: custom
-    icon: star
-    label: Ejemplaco
-  - type: custom
-    icon: list
-    label: Yeah
-  parallax: box
-- icon: star
+  cols: 3
+  gap: 3
+  hs: 4
   icon_size: 3
-  icon_type: top
-  title: Ola k ase
-  subtitle: Agámoslo!
+  align: left
+boxes:
+- icon: house-lock
+  title: Desokupación
   md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+    - Mediación y recuperación de inmuebles ocupados dentro del marco legal.
+    - Valoración previa del caso y estrategia jurídica personalizada.
+- icon: scale-balanced
+  title: Servicio Jurídico
+  md: |
+    - Externalización del servicio jurídico especializado.
+    - Asesoramiento legal en materia de ocupación, inquilinos morosos e irregulares.
+    - Seguimiento del caso según las necesidades del cliente.
+- icon: building-magnifying-glass
+  title: Informes Precompra
+  md: |
+    - Evaluación presencial de inmuebles ocupados o con inquilinos en situación irregular.
+    - Informe sobre la viabilidad de la recuperación del inmueble para inversores o compradores interesados.
+- icon: file-signature
+  title: Asesoramiento <br> Inmobiliario
+  md: |
+    - Servicios de compra, venta y arrendamiento de inmuebles.
+    - Elaboración de contratos inmobiliarios
+- icon: comments-dollar
+  title: Gestión de Inquilinos <br> Morosos o Irregulares
+  md: |
+    - Asesoramiento legal para la resolución de impagos y situaciones irregulares.
+    - Negociación y mediación con inquilinos para la recuperación del inmueble.
+- icon: key
+  title: Oferta de Inmuebles <br> para Inversores
+  md: |
+    - Venta de inmuebles con situaciones legales complejas, con posibilidad de contratación de nuestros servicios jurídicos para su recuperación.
+    - Gestión y fidelización de inversores para la posterior venta de viviendas recuperadas.

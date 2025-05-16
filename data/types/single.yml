@@ -12,13 +12,4 @@ tpl:
     show: auto
   section:
   - size: lg
-    # underline: true
-    uppercase: true
-    alpha: .7
-    parallax: fix
-    div: tilt-curve-sides
-    div_x: false
-    div_y: false
-  - color: white
-    div_x: true
-    div_y: true
+    color: white

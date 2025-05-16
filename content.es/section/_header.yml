@@ -6,6 +6,7 @@ image: base/logo-animation.svg
 pt: 10
 pb: 10
 size: sm
+div: tilt-curve-sides
 # full: true
 # boxes:
 # - image: base/logo.svg
