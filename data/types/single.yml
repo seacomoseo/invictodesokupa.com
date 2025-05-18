@@ -12,5 +12,5 @@ tpl:
     show: auto
   section:
   - size: lg
-    color: white
+    div: tilt-curve-sides
     alpha: .8

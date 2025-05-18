@@ -1,5 +1,5 @@
-name: Nosotros
-title: Nosotros
+name: ¿Por qué INVICTO?
+title: ¿Por qué INVICTO?
 subtitle: Tu tranquilidad, nuestro compromiso
 size: md
 box:
@@ -9,7 +9,7 @@ box:
   align_y: center
 boxes:
 - order: 2
-  image: nosotros.svg
+  image: base/icon-alt.svg
   parallax: box
 - order: 1
   # align_vl: right

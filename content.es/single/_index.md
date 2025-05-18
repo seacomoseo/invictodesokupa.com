@@ -10,7 +10,7 @@ description: Soluciones integrales a propietarios e inversores. Desokupación le
 tpl:
   sections:
   - file: _header
-  - file: nosotros
+  - file: por-que
   - file: servicios
   - file: contacto
   - file: resenas

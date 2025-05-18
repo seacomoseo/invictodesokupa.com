@@ -3,26 +3,49 @@ title: Partners y Colaboradores
 subtitle: Sinergias que potencian resultados
 size: md
 box:
-  cols: 2
   gap: 3
+  gap_vs: 4
   gap_ny: 1
   align: left
-  align_y: center
-  ratio: 3/2
-  # icon_size: 3
-  # parallax: soft
 boxes:
 
-- align_vl: right
-  # icon: house-building
-  image: gestores-asesores-inmobiliarios.webp
-- title: Gestores y Asesores Inmobiliarios
-  md: Expertos colegiados en la compra, venta y alquiler de inmuebles, ofreciendo asesoramiento legal y captación de inversores.
+- box:
+    cols: 2
+    gap: 3
+    gap_vs: 1
+    align_y: center
+  boxes:
+  - align_vl: right
+    bg: gestores-asesores-inmobiliarios.webp
+    parallax: soft
+    rate: 3/2
+  - title: Gestores y Asesores Inmobiliarios
+    md: Expertos colegiados en la compra, venta y alquiler de inmuebles, ofreciendo asesoramiento legal y captación de inversores.
 
-- order: 2
-  # icon: gavel
-  image: mediadores-legales.webp
-- order: 1
-  align_vl: right
-  title: Mediadores Legales
-  md: Profesionales experimentados en la gestión de desokupación y resolución de conflictos con inquilinos morosos o en situación irregular. Se encargan de la mediación, control de accesos y ejecución operativa dentro de la legalidad.
+- box:
+    cols: 2
+    gap: 3
+    gap_vs: 1
+    align_y: center
+  boxes:
+  - order: 2
+    bg: mediadores-legales.webp
+    parallax: soft
+    rate: 3/2
+  - align_vl: right
+    title: Mediadores Legales
+    md: Profesionales experimentados en la gestión de desokupación y resolución de conflictos con inquilinos morosos o en situación irregular. Se encargan de la mediación, control de accesos y ejecución operativa dentro de la legalidad.
+
+- box:
+    cols: 2
+    gap: 3
+    gap_vs: 1
+    align_y: center
+  boxes:
+  - align_vl: right
+    bg: servicio-juridico.webp
+    parallax: soft
+    rate: 3/2
+  - title: Servicio Jurídico
+    md: |
+      Disponemos de abogados especializados en derecho inmobiliario y ocupación ilegal que actúan desde el primer momento: asesoran, redactan notificaciones y llevan las acciones legales necesarias. Su intervención garantiza el estricto cumplimiento de la ley, protege los derechos del propietario y acelera la recuperación del inmueble, aportando seguridad y eficacia.
