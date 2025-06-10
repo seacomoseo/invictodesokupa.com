@@ -97,4 +97,9 @@ organization:
       - Venta de inmuebles con situaciones legales complejas, con posibilidad de contratación de nuestros servicios jurídicos para su recuperación.
       - Gestión y fidelización de inversores para la posterior venta de viviendas recuperadas.
     area: España
+  - title: Servicio de Traducción
+    description: |
+      - Traducción simultánea en mediaciones, visitas y gestiones para garantizar comunicación fluida.
+      - Equipo de traductores especializados que evita malentendidos y aporta total transparencia al proceso.
+    area: España
 ---

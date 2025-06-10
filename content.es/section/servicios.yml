@@ -3,9 +3,11 @@ title: Servicios
 subtitle: Soluciones integrales y efectivas
 div_x: true
 div_y: true
+size: xl
 box:
-  cols: 3
-  gap: 3
+  cols: 4
+  gap_vs: 3
+  gap_ny: 1
   hs: 4
   icon_size: 3
   align: left
@@ -27,17 +29,22 @@ boxes:
     - Evaluación presencial de inmuebles ocupados o con inquilinos en situación irregular.
     - Informe sobre la viabilidad de la recuperación del inmueble para inversores o compradores interesados.
 - icon: file-signature
-  title: Asesoramiento <br> Inmobiliario
+  title: Asesoramiento Inmobiliario
   md: |
     - Servicios de compra, venta y arrendamiento de inmuebles.
     - Elaboración de contratos inmobiliarios
 - icon: comments-dollar
-  title: Gestión de Inquilinos <br> Morosos o Irregulares
+  title: Gestión de Inquilinos Morosos o Irregulares
   md: |
     - Asesoramiento legal para la resolución de impagos y situaciones irregulares.
     - Negociación y mediación con inquilinos para la recuperación del inmueble.
 - icon: key
-  title: Oferta de Inmuebles <br> para Inversores
+  title: Oferta de Inmuebles para Inversores
   md: |
     - Venta de inmuebles con situaciones legales complejas, con posibilidad de contratación de nuestros servicios jurídicos para su recuperación.
     - Gestión y fidelización de inversores para la posterior venta de viviendas recuperadas.
+- icon: language
+  title: Servicio de Traducción
+  md: |
+    - Traducción simultánea en mediaciones, visitas y gestiones para garantizar comunicación fluida.
+    - Equipo de traductores especializados que evita malentendidos y aporta total transparencia al proceso.
