@@ -35,10 +35,8 @@ org:
   logo: base/poster.svg
   images:
   - base/poster.svg
-  # as:
-  # - https://www.facebook.com/QuantumFracture
-  # - https://www.instagram.com/quantumfracture/
-  # - https://g.page/r/CQI3T3wmeAB6EBM
+  as:
+  - https://www.instagram.com/invictodesokupa/
   phones:
   - 604 48 24 58
   address:

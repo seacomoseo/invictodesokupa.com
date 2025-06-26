@@ -12,7 +12,8 @@ review:
   time: 8
 reviews:
 
-- image: opiniones/maria-g.jpg
+- # image: opiniones/maria-g.jpg
+  rating: 5
   title: María G.
   md: |
     Tras meses de desesperación por la ocupación ilegal de mi piso, el equipo de Invicto Desokupa se encargó de todo.
@@ -23,7 +24,8 @@ reviews:
 
     Recomiendo su mediación profesional al 100 %.
 
-- image: opiniones/juan-r.jpg
+- # image: opiniones/juan-r.jpg
+  rating: 5
   title: Juan R.
   md: |
     Cuando mi inquilino dejó de pagar y se negó a abandonar el local, Invicto Desokupa negoció un acuerdo amistoso que evitó un largo proceso judicial.
@@ -32,7 +34,8 @@ reviews:
 
     Un servicio impecable.
 
-- image: opiniones/laura-f-y-carlos-s.jpg
+- # image: opiniones/laura-f-y-carlos-s.jpg
+  rating: 4.5
   title: Laura F. y Carlos S.
   md: |
     Compramos un inmueble con ocupantes irregulares como inversión.
@@ -43,7 +46,8 @@ reviews:
 
     Profesionalidad y resultados.
 
-- image: opiniones/ana-m.jpg
+- # image: opiniones/ana-m.jpg
+  rating: 5
   title: Ana M.
   md: |
     Contacté con Invicto Desokupa por un problema grave de ocupación.
@@ -54,7 +58,8 @@ reviews:
 
     Los recomiendo sin dudar.
 
-- image: opiniones/carlos-r.jpg
+- # image: opiniones/carlos-r.jpg
+  rating: 5
   title: Carlos R.
   md: |
     Tenía un inquilino que no pagaba y la situación era insostenible.
@@ -63,7 +68,8 @@ reviews:
 
     Excelente trabajo de mediación.
 
-- image: opiniones/laura-g.jpg
+- # image: opiniones/laura-g.jpg
+  rating: 4.5
   title: Laura G.
   md: |
     Como inversora, me interesan las propiedades con "problemas" para comprarlas a mejor precio.
