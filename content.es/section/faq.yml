@@ -1,0 +1,24 @@
+name: FAQ
+id: faq
+hanchor: Preguntas frecuentes sobre desokupación
+title: FAQ
+subtitle: Preguntas frecuentes sobre desokupación
+div_x: true
+div_y: true
+size: sm
+accordion:
+  headers: true
+  hs: 5
+accordions:
+
+- title: ¿Cuánto cuesta contratar una empresa de desokupación?
+  md: El precio parte de **1 800 €** e incluye mediación, asesoría legal y desplazamientos. Solicita un presupuesto cerrado en 24 h.
+
+- title: ¿Es legal desokupar una vivienda ocupada sin juicio?
+  md: Sí. La mediación documentada y voluntaria, amparada por un **abogado especialista en desahucios**, es totalmente legal.
+
+- title: ¿Cuánto tarda un desalojo de okupas?
+  md: Con nuestro servicio *express* resolvemos el **desalojo okupas** en 48-72 h; la vía judicial puede tardar de 1 a 4 meses.
+
+- title: ¿Trabajáis en toda España?
+  md: Sí, actuamos en Península, Baleares y Canarias gracias a nuestra red de **empresas de desokupación de viviendas** asociadas.

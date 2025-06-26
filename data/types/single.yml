@@ -12,5 +12,6 @@ tpl:
     show: auto
   section:
   - size: lg
-    div: tilt-curve-sides
     alpha: .8
+    parallax: soft
+    div: tilt-curve-sides

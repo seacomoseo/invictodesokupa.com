@@ -1,0 +1,19 @@
+name: Nosotros
+id: nosotros
+title: Sobre Nosotros
+subtitle: Tu tranquilidad, nuestro compromiso
+size: md
+box:
+  cols: 2
+  gap: 4
+  align: left
+  align_y: center
+  duo: 2
+boxes:
+- image: base/icon-alt.svg
+- md: |
+    Bienvenidos a **INVICTO DESOKUPA**, tu aliado en la recuperación de inmuebles ocupados. Nos especializamos en la desokupación mediante mediación y **estrategias legales**, garantizando **soluciones rápidas y efectivas** para propietarios afectados por la **ocupación ilegal**.
+
+    Con un equipo de expertos en el sector, ofrecemos servicios personalizados para resolver cada caso de manera eficiente, **minimizando los tiempos de espera y asegurando la restitución de la vivienda en el menor plazo posible**.
+
+    La nueva normativa en materia de ocupación, en vigor desde abril de 2025, ha generado controversias y desafíos legales. En INVICTO DESOKUPA, nos anticipamos a estos cambios y **brindamos soluciones tanto extrajudiciales como judiciales para proteger los derechos de los propietarios**.

@@ -1,10 +1,24 @@
 name: Cabecera
-hanchor: Invicto Desokupa - Mediadores y Servicios Inmobiliarios
+hanchor: Empresa de desokupación legal y desalojo de okupas en {{ param location }}
+subtitle: Empresa de desokupación legal y desalojo de okupas en **{{ param location }}**
+md: |
+  Recupera tu vivienda ocupada en ==:sign-circle: menos de 72 h==.
+
+  Somos la **empresa de desokupación** que une
+  mediadores expertos y **abogados de desahucio** para un
+  **desalojo de okupas**
+
+  - :check: 100% Legal y sin violencia
+  - :check: Presupuesto sin Compromiso
+  - :check: Actuación en toda **{{ param location }}**
+
+  [[Solicitar Estudio Gratuito]](#contacto)
+space: 2
 color: dark
-bg: entrega-llaves.webp
+bi: entrega-llaves.webp
 image: base/logo-animation.svg
-pt: 10
-pb: 10
+# pt: 10
+# pb: 10
 size: sm
 div: tilt-curve-sides
 # full: true

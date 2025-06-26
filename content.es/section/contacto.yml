@@ -2,13 +2,13 @@ name: Contacto
 title: Contacto
 subtitle: Estamos a un mensaje de ayudarte
 # menu_button: cta
-bg: apreton-manos.webp
+bi: apreton-manos.webp
 color: dark
 box:
   cols: 2
 boxes:
 - md: Si necesitas ayuda para **recuperar tu propiedad** o quieres asesoramiento sobre nuestros servicios, no dudes en contactarnos. Estamos aquí para ofrecerte soluciones rápidas y efectivas.
-  # social:
+  # dots:
   # - link: https://www.facebook.com/QuantumFracture
   contact:
   # - type: schedule

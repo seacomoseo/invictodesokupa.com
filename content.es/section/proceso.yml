@@ -1,0 +1,18 @@
+name: Proceso
+title: Proceso
+subtitle: de desalojo paso a paso
+size: md
+steps:
+
+- icon: 1
+  title: Auditoría gratuita y estrategia jurídica
+  md: 'Analizamos la documentación, verificamos la titularidad y diseñamos la mejor vía: *desokupación* amistosa o **proceso judicial de desahucio**.'
+
+- icon: 2
+  title: Mediación con okupas o inquilinos
+  md: Nuestros **mediadores y abogados especialistas en okupas** negocian la entrega de llaves firmando un acuerdo privado ante notario.
+
+- icon: 3
+  title: Recuperación y cambio de cerradura
+  md: Entregamos la vivienda saneada, con cerradura nueva y acta de posesión. Incluimos informe fotográfico y certificados necesarios para el seguro.
+

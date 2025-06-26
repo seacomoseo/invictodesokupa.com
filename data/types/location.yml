@@ -1,0 +1,37 @@
+title: Ubicaciones
+base: service
+order: 1
+icon: location-dot
+emoji: 📍
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+    size: ''
+    show_sections: true
+    show_modals: true
+  callnow:
+    show: auto
+  section:
+  - size: lg
+    alpha: .8
+    parallax: soft
+    div: tilt-curve-sides
+  sections:
+  - file: _header
+  - file: por-que
+  - file: servicios
+  - file: opiniones
+  - file: proceso
+  - file: faq
+  - file: contacto
+  - file: partners
+es:
+  permalinks: donde
+  slug: donde
+  singular: Ubicación
+
+params:
+- name: location
+  label: Ubicación
+  hint: Nombre de la Ubicación

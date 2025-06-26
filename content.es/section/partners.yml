@@ -1,6 +1,6 @@
 name: Partners y Colaboradores
 title: Partners y Colaboradores
-subtitle: Sinergias que potencian resultados
+subtitle: Colaboramos con los Mejores Gestores y Asesores
 size: md
 box:
   gap: 3
@@ -16,7 +16,7 @@ boxes:
     align_y: center
   boxes:
   - align_vl: right
-    bg: gestores-asesores-inmobiliarios.webp
+    bi: gestores-asesores-inmobiliarios.webp
     parallax: soft
     rate: 3/2
   - title: Gestores y Asesores Inmobiliarios
@@ -29,7 +29,7 @@ boxes:
     align_y: center
   boxes:
   - order: 2
-    bg: mediadores-legales.webp
+    bi: mediadores-legales.webp
     parallax: soft
     rate: 3/2
   - align_vl: right
@@ -43,7 +43,7 @@ boxes:
     align_y: center
   boxes:
   - align_vl: right
-    bg: servicio-juridico.webp
+    bi: servicio-juridico.webp
     parallax: soft
     rate: 3/2
   - title: Servicio Jurídico

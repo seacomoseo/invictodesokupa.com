@@ -1,14 +1,19 @@
-name: Reseñas
-title: Reseñas
-subtitle: Experiencias de nuestros clientes
+name: Opiniones
+title: Opiniones
+subtitle: Propietarios que ya han recuperado su tranquilidad
+bi: gestores-asesores-inmobiliarios.webp
+color: dark
+
 review:
   cols: 3
   color: white
+  hs: 5
   slider: true
-  interval: 8
+  time: 8
 reviews:
 
-- title: María G.
+- image: opiniones/maria-g.jpg
+  title: María G.
   md: |
     Tras meses de desesperación por la ocupación ilegal de mi piso, el equipo de Invicto Desokupa se encargó de todo.
 
@@ -17,14 +22,18 @@ reviews:
     Su trato cercano y transparente fue clave.
 
     Recomiendo su mediación profesional al 100 %.
-- title: Juan R.
+
+- image: opiniones/juan-r.jpg
+  title: Juan R.
   md: |
     Cuando mi inquilino dejó de pagar y se negó a abandonar el local, Invicto Desokupa negoció un acuerdo amistoso que evitó un largo proceso judicial.
 
     Rapidez, firmeza y absoluta legalidad.
 
     Un servicio impecable.
-- title: Laura F. y Carlos S.
+
+- image: opiniones/laura-f-y-carlos-s.jpg
+  title: Laura F. y Carlos S.
   md: |
     Compramos un inmueble con ocupantes irregulares como inversión.
 
@@ -33,7 +42,9 @@ reviews:
     A los tres meses el piso estaba libre y listo para reformar.
 
     Profesionalidad y resultados.
-- title: Ana M.
+
+- image: opiniones/ana-m.jpg
+  title: Ana M.
   md: |
     Contacté con Invicto Desokupa por un problema grave de ocupación.
 
@@ -42,14 +53,18 @@ reviews:
     Recuperé mi piso en mucho menos tiempo del que esperaba y de forma totalmente legal.
 
     Los recomiendo sin dudar.
-- title: Carlos R.
+
+- image: opiniones/carlos-r.jpg
+  title: Carlos R.
   md: |
     Tenía un inquilino que no pagaba y la situación era insostenible.
 
     Gracias al servicio de gestión de inquilinos morosos, lograron negociar y encontrar una solución amistosa que me permitió recuperar mi propiedad sin tener que ir a juicio.
 
     Excelente trabajo de mediación.
-- title: Laura G.
+
+- image: opiniones/laura-g.jpg
+  title: Laura G.
   md: |
     Como inversora, me interesan las propiedades con "problemas" para comprarlas a mejor precio.
 

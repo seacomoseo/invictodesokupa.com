@@ -3,6 +3,15 @@ langs:
   title: Invicto Desokupa
   description: Mediadores y Servicios Inmobiliarios
   google_analytics: G-05NX6J55T5
+defaults:
+- name: location
+  value: España
+  path:
+  - /
+- name: image
+  value: base/poster.svg
+  path:
+  - /location/*
 cms:
   logo: base/icon.svg
 others:

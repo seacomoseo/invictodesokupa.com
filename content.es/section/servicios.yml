@@ -12,17 +12,29 @@ box:
   icon_size: 3
   align: left
 boxes:
-- icon: house-lock
-  title: Desokupación
+- fit: 1.33
+  icon: house-lock
+  title: Desokupación Express (72 h)
+  hanchor: Desokupación y Desahucio Express en menos de 72 h en {{ param location }}
   md: |
+    - Servicio estrella para **desokupar viviendas** y **desalojo de okupas** con cambio de cerradura en menos de tres días.
     - Mediación y recuperación de inmuebles ocupados dentro del marco legal.
     - Valoración previa del caso y estrategia jurídica personalizada.
-- icon: scale-balanced
-  title: Servicio Jurídico
+- fit: 1.33
+  icon: scale-balanced
+  title: Abogados de Desahucio y Desalojo
+  hanchor: Abogados de Desahucio y Desalojo en {{ param location }}
   md: |
+    - Redactamos y presentamos la demanda de **desahucio por impago**, lanzamientos y reclamaciones de rentas.
+    - Representamos al cliente hasta la recuperación del inmueble.
     - Externalización del servicio jurídico especializado.
-    - Asesoramiento legal en materia de ocupación, inquilinos morosos e irregulares.
-    - Seguimiento del caso según las necesidades del cliente.
+    - Asesoramiento legal en materia de ocupación.
+- fit: 1.33
+  icon: comments-dollar
+  title: Gestión de Inquilinos Morosos o Irregulares
+  md: |
+    - Negociamos pagos atrasados y, si es necesario, iniciamos **desahucio de okupas** o alquileres fraudulentos mediante demanda *exprés*.
+    - Asesoramiento legal para la resolución de impagos y situaciones irregulares.
 - icon: building-magnifying-glass
   title: Informes Precompra
   md: |
@@ -33,11 +45,6 @@ boxes:
   md: |
     - Servicios de compra, venta y arrendamiento de inmuebles.
     - Elaboración de contratos inmobiliarios
-- icon: comments-dollar
-  title: Gestión de Inquilinos Morosos o Irregulares
-  md: |
-    - Asesoramiento legal para la resolución de impagos y situaciones irregulares.
-    - Negociación y mediación con inquilinos para la recuperación del inmueble.
 - icon: key
   title: Oferta de Inmuebles para Inversores
   md: |
