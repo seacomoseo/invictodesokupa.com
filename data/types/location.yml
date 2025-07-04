@@ -10,8 +10,6 @@ tpl:
     size: ''
     show_sections: true
     show_modals: true
-  callnow:
-    show: auto
   section:
   - size: lg
     alpha: .8
@@ -20,8 +18,8 @@ tpl:
   sections:
   - file: _header
   - file: por-que
-  - file: servicios
   - file: opiniones
+  - file: servicios
   - file: proceso
   - file: faq
   - file: contacto

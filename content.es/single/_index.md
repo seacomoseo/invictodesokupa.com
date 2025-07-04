@@ -13,8 +13,8 @@ tpl:
   - file: por-que
     modals:
     - file: nosotros
-  - file: servicios
   - file: opiniones
+  - file: servicios
   - file: proceso
   - file: faq
   - file: contacto
@@ -37,6 +37,7 @@ org:
   - base/poster.svg
   as:
   - https://www.instagram.com/invictodesokupa/
+  - https://g.page/r/CbTrdv9wfVucEBM
   phones:
   - 604 48 24 58
   address:
@@ -47,7 +48,7 @@ org:
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  #   link: https://g.page/r/CQI3T3wmeAB6EBM
+    link: https://g.page/r/CbTrdv9wfVucEBM
   areas:
   - ES
   schedule:
@@ -90,7 +91,7 @@ org:
   - title: Asesoramiento Inmobiliario
     description: |
       Servicios de compra, venta y arrendamiento de inmuebles.
-      Elaboración de contratos inmobiliarios
+      Elaboración de contratos inmobiliarios.
     area: ES
   - title: Oferta de Inmuebles para Inversores
     description: |

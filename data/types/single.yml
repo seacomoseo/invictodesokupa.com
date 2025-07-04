@@ -8,8 +8,6 @@ tpl:
     size: ''
     show_sections: true
     show_modals: true
-  callnow:
-    show: auto
   section:
   - size: lg
     alpha: .8

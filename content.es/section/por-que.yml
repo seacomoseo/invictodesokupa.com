@@ -4,6 +4,8 @@ hanchor: ¿Por qué elegir a Invicto Desokupa?
 title: ¿Por qué elegirnos?
 subtitle: Tu tranquilidad, nuestro compromiso
 size: md
+div_x: true
+div_y: true
 box:
   cols: 2
   gap: 4

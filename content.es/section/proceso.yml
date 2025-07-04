@@ -1,6 +1,8 @@
 name: Proceso
 title: Proceso
 subtitle: de desalojo paso a paso
+bi: proceso.webp
+color: dark
 size: md
 steps:
 
@@ -10,7 +12,7 @@ steps:
 
 - icon: 2
   title: Mediación con okupas o inquilinos
-  md: Nuestros **mediadores y abogados especialistas en okupas** negocian la entrega de llaves firmando un acuerdo privado ante notario.
+  md: Nuestros **mediadores y abogados especialistas en okupas** negocian la entrega de llaves firmando un acuerdo privado.
 
 - icon: 3
   title: Recuperación y cambio de cerradura

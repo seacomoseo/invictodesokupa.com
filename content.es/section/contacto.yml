@@ -8,8 +8,6 @@ box:
   cols: 2
 boxes:
 - md: Si necesitas ayuda para **recuperar tu propiedad** o quieres asesoramiento sobre nuestros servicios, no dudes en contactarnos. Estamos aquí para ofrecerte soluciones rápidas y efectivas.
-  # dots:
-  # - link: https://www.instagram.com/invictodesokupa/
   contact:
   # - type: schedule
   #   days: Lunes a Viernes
@@ -19,7 +17,7 @@ boxes:
     label: 604 48 24 58
   - type: whatsapp
     label: 604 48 24 58
-    button: cta
+    icon: whatsapp-o
   - type: mail
     label: info@invictodesokupa.com
     full: true
