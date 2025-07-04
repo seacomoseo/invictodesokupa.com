@@ -4,7 +4,7 @@ title: Inicio
 image: base/poster.svg
 summary: Soluciones integrales para propietarios e inversores. Desokupación legal, gestión de inquilinos morosos, informes precompra y asesoramiento inmobiliario.
 translationKey: home
-seo: 'Invicto Desokupa: Empresa de Desalojo de Okupas Legal y Rápida'
+seo: 'Invicto Desokupa: Empresa de Desalojo de Okupas Legal'
 description: Recupera tu vivienda ocupada en 72 h con abogados especialistas en desahucios. Desokupación 100 % legal, en toda España. Presupuesto gratis 24 h.
 
 tpl:
