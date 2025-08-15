@@ -1,6 +1,6 @@
 title: Ubicaciones
 base: service
-order: 1
+weight: 1
 icon: location-dot
 emoji: 📍
 tpl:
@@ -8,8 +8,7 @@ tpl:
     logo: false
     sticky: auto
     size: ''
-    show_sections: true
-    show_modals: true
+    auto: same-modals
   section:
   - size: lg
     alpha: .8

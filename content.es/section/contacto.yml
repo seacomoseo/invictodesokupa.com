@@ -23,7 +23,7 @@ boxes:
     full: true
   # - type: address
   #   label: Ronda de Levante, 1, 30008 Murcia
-  #   anchor: Invicto Desokupa - Mediadores y Servicios Inmobiliarios, Ronda de Levante, 1, 30008 Murcia
+  #   anchor: Invicto Desokupa, Ronda de Levante, 1, 30008 Murcia
   form:
     email: info@invictodesokupa.com
   inputs:

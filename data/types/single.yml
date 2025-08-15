@@ -1,13 +1,12 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
 tpl:
   menu:
     logo: false
     sticky: auto
     size: ''
-    show_sections: true
-    show_modals: true
+    auto: same-modals
   section:
   - size: lg
     alpha: .8

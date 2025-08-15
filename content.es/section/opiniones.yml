@@ -10,75 +10,166 @@ review:
   hs: 5
   slider: true
   time: 8
+
 reviews:
 
-- # image: opiniones/maria-g.jpg
+- title: Adolfo H.
+  md: |
+    Invicto Desocupa me ayudó a recuperar mi piso rápido y sin complicaciones.
+
+    Después de meses con inquilinos morosos, gracias a ellos recuperé mi tranquilidad.
+
+    Muy profesionales y recomendados.
   rating: 5
-  title: María G.
+  # image: https://lh3.googleusercontent.com/a-/ALV-UjXv0ASwJhq-ZmCOuarTOWHNg9IK3yAeGU2GpHniFVYe2BUVvSCE=s136
+
+- title: Maria J.
   md: |
-    Tras meses de desesperación por la ocupación ilegal de mi piso, el equipo de Invicto Desokupa se encargó de todo.
+    Teniamos inquilinos morosos con niños que se negaban a salir, gracias al equipo de Invicto, pudimos solucionar el conflicto y recuperar nuestra vivienda en un tiempo considerable.
 
-    En solo dos semanas recuperé mi vivienda y la tranquilidad.
+    Lo recomiendo 100%.
 
-    Su trato cercano y transparente fue clave.
-
-    Recomiendo su mediación profesional al 100 %.
-
-- # image: opiniones/juan-r.jpg
+    Profesionales y eficaces.
   rating: 5
-  title: Juan R.
+  # image: https://lh3.googleusercontent.com/a/ACg8ocJYEgUxg8Fs31w3x9mUAuf0b2InLnUsbs6GB520RaNpC4CKZA=s136
+
+- title: Triana M.
   md: |
-    Cuando mi inquilino dejó de pagar y se negó a abandonar el local, Invicto Desokupa negoció un acuerdo amistoso que evitó un largo proceso judicial.
+    Gracias por vuestra ayuda.
 
-    Rapidez, firmeza y absoluta legalidad.
-
-    Un servicio impecable.
-
-- # image: opiniones/laura-f-y-carlos-s.jpg
-  rating: 4.5
-  title: Laura F. y Carlos S.
-  md: |
-    Compramos un inmueble con ocupantes irregulares como inversión.
-
-    Gracias al informe precompra entendimos los riesgos y el plan de acción.
-
-    A los tres meses el piso estaba libre y listo para reformar.
-
-    Profesionalidad y resultados.
-
-- # image: opiniones/ana-m.jpg
+    Sois grandes profesionales y volvería a contar con vosotros sin pensarlo dos veces!
   rating: 5
-  title: Ana M.
+  # image: https://lh3.googleusercontent.com/a/ACg8ocLBYZ1mmBQq0iLDlG-1tHwK1R2FhRpi_MUfRA-ldYp2li0Cyg=s136
+
+- title: Natalia F.
   md: |
-    Contacté con Invicto Desokupa por un problema grave de ocupación.
+    Tuve un problema de ocupación con la 2° residencia del pueblo y gracias a Invicto Desokupa pudimos recuperarla en poco tiempo.
 
-    Actuaron con una profesionalidad y rapidez impresionantes.
+    Fueron muy profesionales desde el primer momento, me mantuvieron informada en todo el proceso y actuaron con rapidez y eficacia.
 
-    Recuperé mi piso en mucho menos tiempo del que esperaba y de forma totalmente legal.
+    Gracias a su ayuda, pudimos vender la casa sin más complicaciones.
 
-    Los recomiendo sin dudar.
-
-- # image: opiniones/carlos-r.jpg
+    ¡Muy recomendables si tienes un problema similar!
   rating: 5
-  title: Carlos R.
+  # image: https://lh3.googleusercontent.com/a/ACg8ocJ0kA5P003liZqH5Wh74Lh5FDLWxCdSc7px7RaUZa2ja0ABBQ=s136
+
+- title: Carmen M.
   md: |
-    Tenía un inquilino que no pagaba y la situación era insostenible.
+    Me devolvieron la tranquilidad.
 
-    Gracias al servicio de gestión de inquilinos morosos, lograron negociar y encontrar una solución amistosa que me permitió recuperar mi propiedad sin tener que ir a juicio.
+    Llevaba meses viviendo una pesadilla con unos inquilinos que no pagaban y se negaban a marcharse.
 
-    Excelente trabajo de mediación.
+    La impotencia, el estrés, la incertidumbre… era una situación que me estaba afectando muchísimo, incluso a nivel personal.
 
-- # image: opiniones/laura-g.jpg
-  rating: 4.5
-  title: Laura G.
+    Gracias a esta empresa, volví a sentir que alguien estaba de mi parte.
+
+    Se hicieron cargo de todo, me acompañaron en cada paso y, lo más importante: ¡consiguieron que los inquilinos se fueran! No tengo palabras para agradecerles el alivio que siento ahora.
+
+    Si estás pasando por algo parecido, no lo dudes.
+
+    Merece la pena.
+  rating: 5
+  # image: https://lh3.googleusercontent.com/a-/ALV-UjVeBrPtg1iUwC6GBBzBtJzTWRH4JUKJhLXoXL6m6GuoCi9JXbLr=s136
+
+- title: Loli R.
   md: |
-    Como inversora, me interesan las propiedades con "problemas" para comprarlas a mejor precio.
+    Eficaces, amables y te resuelven todas las dudas.
 
-    Invicto Desokupa me proporcionó un informe precompra detallado y luego gestionó la desocupación.
+    Recomendable 100%
+  rating: 5
+  # image: https://lh3.googleusercontent.com/a-/ALV-UjXymYipKxGu9V5CYtpCMkgwZ1CXQbc6YSbBzrtY6VKzkRBQSUk=s136
 
-    Su asesoramiento fue clave y todo el proceso fue transparente.
+- title: Insaf O.
+  md: |
+    Sin duda, un acierto.
 
-    Muy satisfecha con el servicio integral.
+    La atención y el trato por parte de Penélope es una maravilla.
+  rating: 5
+  # image: https://lh3.googleusercontent.com/a/ACg8ocIXKHAUJKc4DqTumdBKzMmHiFlLvQMFYTnnRPggzu7l4eiDhw=s136
+
+- title: Marius R.
+  md: |
+    Desde el minuto 0 mucha trasparencia y las cosas tal como son, muy claros y muy eficaces, sin duda alguna, los N1 si quieres hacer las cosas correctamente, llevan todo estudiado al dedillo, “y las cosas bien hechas, siempre estarán bien hechas”.
+
+    Tengo que apuntar también la amabilidad, profesionalidad y empatía, por parte del equipo de invicto desokupa, Muchas Gracias por todo.
+  rating: 5
+  # image: https://lh3.googleusercontent.com/a-/ALV-UjW0L-k8aMmtREFORR5e3_vIDBgpfh7ObdpDINhRa-W8tCm4m3ee=s136
+
+- title: The Non
+  md: |
+    buen servicio y asesoramiento.
+
+    lo recomiendo.
+  rating: 5
+  # image: https://lh3.googleusercontent.com/a-/ALV-UjVD3897pQGwu3U38C_cAanaDPwfCKwd0blduAKPhtUVVDoJA74x=s136
+
+# - # image: opiniones/maria-g.jpg
+#   rating: 5
+#   title: María G.
+#   md: |
+#     Tras meses de desesperación por la ocupación ilegal de mi piso, el equipo de Invicto Desokupa se encargó de todo.
+
+#     En solo dos semanas recuperé mi vivienda y la tranquilidad.
+
+#     Su trato cercano y transparente fue clave.
+
+#     Recomiendo su mediación profesional al 100 %.
+
+# - # image: opiniones/juan-r.jpg
+#   rating: 5
+#   title: Juan R.
+#   md: |
+#     Cuando mi inquilino dejó de pagar y se negó a abandonar el local, Invicto Desokupa negoció un acuerdo amistoso que evitó un largo proceso judicial.
+
+#     Rapidez, firmeza y absoluta legalidad.
+
+#     Un servicio impecable.
+
+# - # image: opiniones/laura-f-y-carlos-s.jpg
+#   rating: 4.5
+#   title: Laura F. y Carlos S.
+#   md: |
+#     Compramos un inmueble con ocupantes irregulares como inversión.
+
+#     Gracias al informe precompra entendimos los riesgos y el plan de acción.
+
+#     A los tres meses el piso estaba libre y listo para reformar.
+
+#     Profesionalidad y resultados.
+
+# - # image: opiniones/ana-m.jpg
+#   rating: 5
+#   title: Ana M.
+#   md: |
+#     Contacté con Invicto Desokupa por un problema grave de ocupación.
+
+#     Actuaron con una profesionalidad y rapidez impresionantes.
+
+#     Recuperé mi piso en mucho menos tiempo del que esperaba y de forma totalmente legal.
+
+#     Los recomiendo sin dudar.
+
+# - # image: opiniones/carlos-r.jpg
+#   rating: 5
+#   title: Carlos R.
+#   md: |
+#     Tenía un inquilino que no pagaba y la situación era insostenible.
+
+#     Gracias al servicio de gestión de inquilinos morosos, lograron negociar y encontrar una solución amistosa que me permitió recuperar mi propiedad sin tener que ir a juicio.
+
+#     Excelente trabajo de mediación.
+
+# - # image: opiniones/laura-g.jpg
+#   rating: 4.5
+#   title: Laura G.
+#   md: |
+#     Como inversora, me interesan las propiedades con "problemas" para comprarlas a mejor precio.
+
+#     Invicto Desokupa me proporcionó un informe precompra detallado y luego gestionó la desocupación.
+
+#     Su asesoramiento fue clave y todo el proceso fue transparente.
+
+#     Muy satisfecha con el servicio integral.
 
 boxes:
 - md: |

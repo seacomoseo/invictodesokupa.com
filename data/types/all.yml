@@ -14,7 +14,6 @@ tpl:
     show: auto
   section:
   - size: sm
-  modal: {}
   sections:
   - file: base/_header
   - file: base/toc
