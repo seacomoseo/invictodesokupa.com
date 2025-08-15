@@ -10,8 +10,6 @@ tpl:
   sections:
   - file: _header
   - file: por-que
-    modals:
-    - file: nosotros
   - file: opiniones
   - file: servicios
   - file: proceso

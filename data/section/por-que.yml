@@ -1,0 +1,52 @@
+name: ¿Por qué elegirnos?
+id: por-que-elegirnos
+hanchor: ¿Por qué elegir a Invicto Desokupa?
+title: ¿Por qué elegirnos?
+subtitle: Tu tranquilidad, nuestro compromiso
+size: md
+div_x: true
+div_y: true
+
+box:
+  cols: 2
+  gap: 4
+  gap_vs: 1
+  gap_ny: 1
+  align: left
+  align_y: center
+  duo: 2
+
+boxes:
+- image: base/icon-alt.svg
+  parallax: box
+- box:
+    gap: 1
+    hs: 5
+  boxes:
+  - title: 99 % de casos resueltos sin juicio
+    md: Nuestra tasa de éxito se basa en la **mediación profesional**, minimizando costes y plazos para el propietario. Solo el 1 % de los expedientes requiere vía judicial.
+  - title: Abogados especialistas en desahucios y ocupaciones
+    hanchor: Abogados especialistas en desahucios y ocupaciones en {{ param location }}
+    md: Contamos con un equipo propio de **abogados expertos en desahucios**, procuradores y peritos que garantizan cada paso del procedimiento conforme a la LEC y a la **Ley Anti-Okupas 2025**.
+  - label: Más Sobre Nosotros
+    link: /#nosotros
+
+modals:
+- id: nosotros
+  title: Sobre Nosotros
+  subtitle: Tu tranquilidad, nuestro compromiso
+  size: md
+  box:
+    cols: 2
+    gap: 4
+    align: left
+    align_y: center
+    duo: 2
+  boxes:
+  - image: base/icon-alt.svg
+  - md: |
+      Bienvenidos a **INVICTO DESOKUPA**, tu aliado en la recuperación de inmuebles ocupados. Nos especializamos en la desokupación mediante mediación y **estrategias legales**, garantizando **soluciones rápidas y efectivas** para propietarios afectados por la **ocupación ilegal**.
+
+      Con un equipo de expertos en el sector, ofrecemos servicios personalizados para resolver cada caso de manera eficiente, **minimizando los tiempos de espera y asegurando la restitución de la vivienda en el menor plazo posible**.
+
+      La nueva normativa en materia de ocupación, en vigor desde abril de 2025, ha generado controversias y desafíos legales. En INVICTO DESOKUPA, nos anticipamos a estos cambios y **brindamos soluciones tanto extrajudiciales como judiciales para proteger los derechos de los propietarios**.

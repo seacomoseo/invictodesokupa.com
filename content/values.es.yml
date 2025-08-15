@@ -1,4 +1,6 @@
 title: Valores Globales
+menu:
+  image: base/logo.svg
 footer:
   div: tilt-curve-sides
   div_x: true
