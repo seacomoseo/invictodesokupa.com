@@ -5,14 +5,14 @@ tpl:
   menu:
     logo: true
     logo_align: center
-    transparent: true
+    clear: true
     size: sm
     hide_icons: true
   callnow: auto
   section:
   - size: sm
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: base-address
@@ -21,14 +21,14 @@ tpl:
   - file: base-comments
   - file: base-children
   - file: base-share
-  - file: base-related
+  - file: base-rel
   list:
     cols: 4
     align: left
-    image: hide
-    icon_type: side
+    img: hide
+    icon_pos: side
     hs: 5
     md: hide
-    button: hide
-  related:
+    btn: hide
+  rel:
     slider: true

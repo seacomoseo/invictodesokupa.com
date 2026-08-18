@@ -1,21 +1,21 @@
 title: Ubicaciones
 base: service
 weight: 1
-icon: location-dot
+icon: place
 emoji: 📍
 tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
+    size: lg
     auto: same-modals
   section:
   - size: lg
-    alpha: .8
-    parallax: soft
+    alpha: 0.8
+    scroll: soft
     div: tilt-curve-sides
   sections:
-  - file: _header
+  - file: _hero
   - file: por-que
   - file: opiniones
   - file: servicios
@@ -23,12 +23,3 @@ tpl:
   - file: faq
   - file: contacto
   - file: partners
-es:
-  permalinks: donde
-  slug: donde
-  singular: Ubicación
-
-params:
-- name: location
-  label: Ubicación
-  hint: Nombre de la Ubicación

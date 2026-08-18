@@ -1,0 +1,23 @@
+name: Hero
+color: dark
+bi: /u/entrega-llaves.webp
+size: sm
+div: tilt-curve-sides
+boxes:
+- hanchor: Empresa de desokupación legal y desalojo de okupas en {{ get location }}
+  space: 2
+- img: /u/base/logo-animation.svg
+- url: tel:+34604482458
+  label: 604 48 24 58
+  pin: phone
+- sub: Empresa de desokupación legal y desalojo de okupas en **{{ get location }}**
+- md: |
+    Recupera tu vivienda ocupada en ==::svg:sign-circle:: menos de 72 h==.
+
+    Somos la **empresa de desokupación** que une
+    mediadores expertos y **abogados de desahucio** para un
+    **desalojo de okupas**
+
+    - ::check:: 100% Legal y sin violencia
+    - ::check:: Presupuesto sin Compromiso
+    - ::check:: Actuación en toda **{{ get location }}**

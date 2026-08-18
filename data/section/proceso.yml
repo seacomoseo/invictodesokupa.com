@@ -1,20 +1,17 @@
 name: Proceso
-title: Proceso
-subtitle: de desalojo paso a paso
-bi: proceso.webp
+bi: /u/proceso.webp
 color: dark
 size: md
-steps:
-
-- icon: 1
-  title: Auditoría gratuita y estrategia jurídica
-  md: 'Analizamos la documentación, verificamos la titularidad y diseñamos la mejor vía: *desokupación* amistosa o **proceso judicial de desahucio**.'
-
-- icon: 2
-  title: Mediación con okupas o inquilinos
-  md: Nuestros **mediadores y abogados especialistas en okupas** negocian la entrega de llaves firmando un acuerdo privado.
-
-- icon: 3
-  title: Recuperación y cambio de cerradura
-  md: Entregamos la vivienda saneada, con cerradura nueva y acta de posesión. Incluimos informe fotográfico y certificados necesarios para el seguro.
-
+boxes:
+- title: Proceso
+  sub: de desalojo paso a paso
+  steps:
+  - icon: 1
+    title: Auditoría gratuita y estrategia jurídica
+    md: 'Analizamos la documentación, verificamos la titularidad y diseñamos la mejor vía: *desokupación* amistosa o **proceso judicial de desahucio**.'
+  - icon: 2
+    title: Mediación con okupas o inquilinos
+    md: Nuestros **mediadores y abogados especialistas en okupas** negocian la entrega de llaves firmando un acuerdo privado.
+  - icon: 3
+    title: Recuperación y cambio de cerradura
+    md: Entregamos la vivienda saneada, con cerradura nueva y acta de posesión. Incluimos informe fotográfico y certificados necesarios para el seguro.

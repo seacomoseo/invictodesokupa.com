@@ -1,0 +1,8 @@
+- name: location
+  value: España
+  path:
+  - /
+- name: image
+  value: /u/base/poster.svg
+  path:
+  - /location/*

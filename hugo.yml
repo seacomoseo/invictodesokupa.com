@@ -2,10 +2,11 @@ baseURL: https://invictodesokupa.com
 buildFuture: true
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: invictodesokupa.com
   name: invictodesokupa
   netlify_id: ''
   netlify_hook: ''
   cloudflare_id: OGVhNjBjNmNhMjc2YjJiMzY5ZWZlZmIxZWVjOGU1NDUK
-  drive_link: https://drive.google.com/file/d/1L_G8ClifVqwLEr7fZn_8iQ1bZ-L7jpBQ
+  drive_url: https://drive.google.com/file/d/1L_G8ClifVqwLEr7fZn_8iQ1bZ-L7jpBQ
   drive_mails: invictodesokupa@gmail.com

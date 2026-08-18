@@ -1,14 +1,14 @@
-title: Únicas
+title: Páginas Únicas
 weight: 0
 base: single
 tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
+    size: lg
     auto: same-modals
   section:
   - size: lg
-    alpha: .8
-    parallax: soft
+    alpha: 0.8
+    scroll: soft
     div: tilt-curve-sides

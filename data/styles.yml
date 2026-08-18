@@ -1,12 +1,11 @@
 icons:
-  type: solid
-  sharp: false
-  emojis: false
-  play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
+  fill: true
+  weight: 700
+  grade: 0
+  optical: 24
+  style: outlined
+  def:
+    play: svg:youtube-iframe
 fonts:
   base:
     google: true
@@ -23,7 +22,6 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   title:
     google: true
     family: Cinzel
@@ -32,14 +30,13 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   blockquote_cursive: true
 colors:
   main:
     color: '#d9d9d9'
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: false
       in: true
       text: true
@@ -47,7 +44,7 @@ colors:
     color: ''
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: true
       in: true
       text: true
@@ -55,7 +52,7 @@ colors:
     color: ''
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: false
       in: true
       text: true
@@ -68,8 +65,8 @@ colors:
 rounded:
   radius: 0.33
   chamfer: false
-buttons:
-  sides_round: false
+btns:
+  pill: false
   icon_circle: true
   deep: false
   outline: false

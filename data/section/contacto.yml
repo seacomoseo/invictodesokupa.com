@@ -1,48 +1,37 @@
 name: Contacto
-title: Contacto
-subtitle: Estamos a un mensaje de ayudarte
-# menu_button: cta
-bi: apreton-manos.webp
+bi: /u/apreton-manos.webp
 color: dark
-box:
-  cols: 2
 boxes:
-- md: Si necesitas ayuda para **recuperar tu propiedad** o quieres asesoramiento sobre nuestros servicios, no dudes en contactarnos. Estamos aquí para ofrecerte soluciones rápidas y efectivas.
-  contact:
-  # - type: schedule
-  #   days: Lunes a Viernes
-  #   hours: 9:00 - 12:30 y 14:30 - 20:00
-  #   full: true
-  - type: phone
-    label: 604 48 24 58
-  - type: whatsapp
-    label: 604 48 24 58
-    icon: whatsapp-o
-  - type: mail
-    label: info@invictodesokupa.com
-    full: true
-  # - type: address
-  #   label: Ronda de Levante, 1, 30008 Murcia
-  #   anchor: Invicto Desokupa, Ronda de Levante, 1, 30008 Murcia
-  form:
-    email: info@invictodesokupa.com
-  inputs:
-  - type: text
-    name: Nombre
-    icon: user
-    required: true
-  - type: tel
-    name: Teléfono
-    icon: phone
-  - type: email
-    name: Email
-    icon: envelope
-    required: true
-  - type: textarea
-    name: Mensaje
-    icon: message
-    required: true
-# - geos:
-#   - type: point
-#     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-#   rate: 1/1
+- title: Contacto
+  sub: Estamos a un mensaje de ayudarte
+  box:
+    cols: 2
+  boxes:
+  - md: Si necesitas ayuda para **recuperar tu propiedad** o quieres asesoramiento sobre nuestros servicios, no dudes en contactarnos. Estamos aquí para ofrecerte soluciones rápidas y efectivas.
+    links:
+    - type: phone
+      label: 604 48 24 58
+    - type: whatsapp
+      label: 604 48 24 58
+      icon: brand:whatsapp-o
+    - type: mail
+      label: info@invictodesokupa.com
+      full: true
+    form:
+      mail: info@invictodesokupa.com
+    inputs:
+    - type: text
+      name: Nombre
+      icon: man
+      req: true
+    - type: phone
+      name: Teléfono
+      icon: phone
+    - type: mail
+      name: Email
+      icon: mail
+      req: true
+    - type: area
+      name: Mensaje
+      icon: chat_bubble
+      req: true

@@ -1,51 +1,48 @@
 name: Partners y Colaboradores
-title: Partners y Colaboradores
-subtitle: Colaboramos con los Mejores Gestores y Asesores
 size: md
-box:
-  gap: 3
-  gap_vs: 4
-  gap_ny: 1
-  align: left
 boxes:
-
-- box:
-    cols: 2
+- title: Partners y Colaboradores
+  sub: Colaboramos con los Mejores Gestores y Asesores
+  box:
     gap: 3
-    gap_vs: 1
-    align_y: center
+    gap_vs: 4
+    align: left
   boxes:
-  - align_vl: right
-    bi: gestores-asesores-inmobiliarios.webp
-    parallax: soft
-    rate: 3/2
-  - title: Gestores y Asesores Inmobiliarios
-    md: Expertos colegiados en la compra, venta y alquiler de inmuebles, ofreciendo asesoramiento legal y captación de inversores.
-
-- box:
-    cols: 2
-    gap: 3
-    gap_vs: 1
-    align_y: center
-  boxes:
-  - order: 2
-    bi: mediadores-legales.webp
-    parallax: soft
-    rate: 3/2
-  - align_vl: right
-    title: Mediadores Legales
-    md: Profesionales experimentados en la gestión de desokupación y resolución de conflictos con inquilinos morosos o en situación irregular. Se encargan de la mediación, control de accesos y ejecución operativa dentro de la legalidad.
-
-- box:
-    cols: 2
-    gap: 3
-    gap_vs: 1
-    align_y: center
-  boxes:
-  - align_vl: right
-    bi: servicio-juridico.webp
-    parallax: soft
-    rate: 3/2
-  - title: Servicio Jurídico
-    md: |
-      Disponemos de abogados especializados en derecho inmobiliario y ocupación ilegal que actúan desde el primer momento: asesoran, redactan notificaciones y llevan las acciones legales necesarias. Su intervención garantiza el estricto cumplimiento de la ley, protege los derechos del propietario y acelera la recuperación del inmueble, aportando seguridad y eficacia.
+  - box:
+      cols: 2
+      gap: 3
+      gap_vs: 1
+      align_y: center
+    boxes:
+    - align_vl: right
+      bi: /u/gestores-asesores-inmobiliarios.webp
+      scroll: soft
+      rate: 3/2
+    - title: Gestores y Asesores Inmobiliarios
+      md: Expertos colegiados en la compra, venta y alquiler de inmuebles, ofreciendo asesoramiento legal y captación de inversores.
+  - box:
+      cols: 2
+      gap: 3
+      gap_vs: 1
+      align_y: center
+    boxes:
+    - order: 2
+      bi: /u/mediadores-legales.webp
+      scroll: soft
+      rate: 3/2
+    - align_vl: right
+      title: Mediadores Legales
+      md: Profesionales experimentados en la gestión de desokupación y resolución de conflictos con inquilinos morosos o en situación irregular. Se encargan de la mediación, control de accesos y ejecución operativa dentro de la legalidad.
+  - box:
+      cols: 2
+      gap: 3
+      gap_vs: 1
+      align_y: center
+    boxes:
+    - align_vl: right
+      bi: /u/servicio-juridico.webp
+      scroll: soft
+      rate: 3/2
+    - title: Servicio Jurídico
+      md: |
+        Disponemos de abogados especializados en derecho inmobiliario y ocupación ilegal que actúan desde el primer momento: asesoran, redactan notificaciones y llevan las acciones legales necesarias. Su intervención garantiza el estricto cumplimiento de la ley, protege los derechos del propietario y acelera la recuperación del inmueble, aportando seguridad y eficacia.

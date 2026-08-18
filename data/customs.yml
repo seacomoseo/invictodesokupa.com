@@ -1,0 +1,4 @@
+- types: [ location ]
+  name: location
+  label: Ubicación
+  hint: Nombre de la Ubicación
